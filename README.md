@@ -1,0 +1,5 @@
+All codes shown are written by me and also viewable here: https://github.com/OpenMD/OpenMD/commits/main/?author=sshavali
+
+These are part of the OpenMD software which is an open-source molecular dynamics engine with built-in analysis codes. More information on OpenMD can be found at https://openmd.org/
+
+omdcombined.py: This code allows for the merging of multiple solvent, solute, and ligand files for molecular dynamics simulations. This improved upon the original code which wouldn't allow for smooth merging of solutes with both rigid and non-rigid solute/ligand components.
